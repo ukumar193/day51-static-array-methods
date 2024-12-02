@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+button{
+  min-width:100px;
+  padding: 5px;
+  background-color: yellowgreen;
+  margin: 10px 10px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+}
+button:hover{
+  background-color: wheat;
+ 
+  box-shadow: 3px 3px 3px blue;
+}
+.dv1{
+  background-color: #69a9c2;
+ width: 100%;
+  display: inline-block;
+  align-items: center;
+ padding: 25px;
+ min-height: 800px;
+}
+p{
+  font-size: 1.2rem;
+  font-family: bold;
+  letter-spacing: 2px;
+}
